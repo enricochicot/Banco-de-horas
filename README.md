@@ -1,6 +1,6 @@
 # 🕒 Banco de Horas - Cálculo de Salário em C++
 # 📄 Descrição
-Banco-de-horas é um programa simples desenvolvido em C++ com estrutura sequencial, cujo objetivo é calcular o salário de um trabalhador com base na quantidade de horas trabalhadas e no valor da hora.
+Programa simples desenvolvido em C++ com estrutura sequencial, cujo objetivo é calcular o salário de um trabalhador com base na quantidade de horas trabalhadas e no valor da hora.
 
 Este projeto é ideal para iniciantes, pois demonstra conceitos fundamentais de entrada de dados, operações aritméticas, e exibição de resultados utilizando apenas recursos básicos da linguagem.
 
